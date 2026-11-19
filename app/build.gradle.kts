@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "com.example.coconutautoplayer"
-    compileSdk = 37
+    compileSdk = 36
 
     defaultConfig {
         applicationId = "com.example.coconutautoplayer"
