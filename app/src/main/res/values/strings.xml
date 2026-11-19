@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Coconut Auto Player</string>
+    <string name="accessibility_description">Performs user-approved touch gestures for the Coconut Auto Player game assistant.</string>
+</resources>
